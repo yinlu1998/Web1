@@ -1,0 +1,10 @@
+h3,h6, p {
+ 	color:gray;font-family:Arial;font-size:12px;
+	}
+a{color:#727272;text-decoration: none}
+a:hover{text-decoration:underline;}
+body{line-height:2em;}
+.bluep{color:white;text-decoration: none;}
+.bluep:hover{color:#b9f605;text-decoration: none;}
+table{font-size: 14px;color:#b9f605;font-weight: bold}
+.redp{color:#fdb306;}
